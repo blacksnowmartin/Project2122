@@ -35,3 +35,5 @@
 The most effective accelerator is accountability, not just a plan. Set dates for each step, and check in with me at each one. Send me your one-sentence thesis, and each draft as it's done, and I'll give you direct feedback on whether it's doing what you intend.
 
 If you'd like, tell me your stance and I'll draft a rewritten Part II opening so you can see the double-voiced approach in practice.
+
+https://claude.ai/artifact/J49CryuHsozJLUFJFQdsaU
